@@ -1,0 +1,27 @@
+header{
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+footer{
+  color: white;
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+main{
+  padding: 35px;
+}
+
+.eex{
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+
+.min-vh-100 {
+  min-height: 40vh!important;
+  margin: 50;
+  border-radius: 1000;
+}
+
+.cco2{
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
+}
