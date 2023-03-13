@@ -1,10 +1,11 @@
+
 header{
-  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 footer{
   color: white;
-  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 main{
@@ -13,6 +14,7 @@ main{
 
 .eex{
   background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
+
 }
 
 
@@ -25,3 +27,68 @@ main{
 .cco2{
   background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%);
 }
+
+.navani a:hover{
+box-shadow: 1px 1px 0px 1px black;
+border: 1px solid blue;
+}
+/* .card00l{
+margin-right: 20rem;
+} */
+
+.card00r{
+margin-left: 20rem;
+} 
+
+.conn div p,h3{
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 30%;
+  box-shadow: 2px 2px 5px 1px blue;
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(181,39,182,1) 0%, rgba(0,212,255,1) 100%); 
+}
+
+.conn div{
+margin-bottom: 3rem;
+}
+
+.mail:hover{
+  width: 50px;
+  height: 50px;
+  
+}
+
+
+
+@media(max-width:991.27px) {
+  .banner-image {
+      background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("https://images.unsplash.com/photo-1618004912476-29818d81ae2e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=MnwzNzg0fDB8MXxzZWFyY2h8NzV8fHB1cnBsZXxlbnwwfDB8fHwxNjQ3NDcxNjY4&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080&amp;h=768");
+      background-repeat: no-repeat;
+      background-position: right;
+      background-size: auto;
+  }
+
+
+#div0010{
+flex-direction: column;
+}
+
+#div001 h3,p{
+  font-size: smaller;
+  }
+
+  #div002 h3,p{
+    font-size: smaller;
+    }
+
+    .card00r{
+      margin-left: 0rem;
+      } 
+
+
+}
+
+.abd005{
+  background: linear-gradient(210deg, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 100%); 
+}
+
